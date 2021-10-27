@@ -108,4 +108,5 @@ url_1: Utiliza el applet que envía datos de los sensores a una hoja de cálculo
               verde.value(1)
 
 https://youtu.be/xNT4KDUmxkk
-
+https://photos.app.goo.gl/gK3YVPkHdjM2wCHBA
+https://photos.app.goo.gl/PtrixSJTqmygvQfB6
